@@ -3,6 +3,22 @@ layout: page
 title: About
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+##求职意向
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
+  前端工程师 |  10k/月 | 一个月内到岗
+  25岁 | 男 | 3年经验
+  18851901821 | 1773665065@qq.com
+
+##教育背景
+
+
+##工作经验
+
+
+##技能特长
+
+
+##荣誉证书
+
+
+##自我评价
