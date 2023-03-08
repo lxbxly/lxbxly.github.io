@@ -15,7 +15,7 @@ title: 个人简历
 ---
   **2017-09~2021-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**南京工业大学**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**地理信息科学**  
   
-  **主修课程：** WebGIS、地图学、地理信息系统。
+  **主修课程：** WebGIS、地图学、地理信息系统，数据结构，数据库，C语言，C#。
 
 ## 工作经验
 ---
@@ -38,7 +38,7 @@ title: 个人简历
 - html/css/js/html5/css3/jquery/es6/less sass
 - vue全家桶、express+mysql开发后端接口、组件化、模块化
 - arcgis处理地图数据，geojson数据用于前端展示，熟悉leafletjs创建地图
-- element-ui、vant、layui、lodash、antd、bootstrap、uniapp
+- element-ui、vant、layui、lodash、antd、bootstrap、uniapp等组件库
 - git版本管理、svn项目管理、了解标书的内容组成
 
 ## 项目经历
