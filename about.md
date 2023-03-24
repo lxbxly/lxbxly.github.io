@@ -13,7 +13,7 @@ title: 个人简历
 
 ## 教育背景
 ---
-  **2017-09~2021-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**南京工业大学(统招一本)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**地理信息科学**  
+  **2017-09~2021-06**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**南京工业大学**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**地理信息科学**  
   
   **主修课程：** WebGIS、地图学、地理信息系统，数据结构，数据库，C语言，C#。
 
